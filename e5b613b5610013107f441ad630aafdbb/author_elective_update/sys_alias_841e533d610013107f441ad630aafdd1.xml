@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_1234_kishlist.KishLs</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>KishLs</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 12:03:06</sys_created_on>
+        <sys_id>841e533d610013107f441ad630aafdd1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>x_1234_kishlist.KishLs</sys_name>
+        <sys_package display_value="Kishlist" source="x_1234_kishlist">e5b613b5610013107f441ad630aafdbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kishlist">e5b613b5610013107f441ad630aafdbb</sys_scope>
+        <sys_update_name>sys_alias_841e533d610013107f441ad630aafdd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 12:04:23</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Kishlist">e5b613b5610013107f441ad630aafdbb</application>
+        <file_path/>
+        <instance_id>acfeee2f47bfc750ea987585d36d4386</instance_id>
+        <instance_name>nowlearning-nlinst04780602-8qpfv-0001</instance_name>
+        <name>sys_alias_841e533d610013107f441ad630aafdd1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_1234_kishlist.KishLs</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>KishLs</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-21 12:03:06</sys_created_on><sys_id>841e533d610013107f441ad630aafdd1</sys_id><sys_mod_count>5</sys_mod_count><sys_name>x_1234_kishlist.KishLs</sys_name><sys_package display_value="Kishlist" source="x_1234_kishlist">e5b613b5610013107f441ad630aafdbb</sys_package><sys_policy/><sys_scope display_value="Kishlist">e5b613b5610013107f441ad630aafdbb</sys_scope><sys_update_name>sys_alias_841e533d610013107f441ad630aafdd1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-21 12:04:23</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-2145065931</payload_hash>
+        <record_name>x_1234_kishlist.KishLs</record_name>
+        <reverted_from/>
+        <source>fdb613b5610013107f441ad630aafdbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 12:04:23</sys_created_on>
+        <sys_id>4c6e973d610013107f441ad630aafde3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a15e59287c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 12:04:23</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>486e973d6d00131087492a3c99cd5be3</update_guid>
+        <update_guid_history>486e973d6d00131087492a3c99cd5be3:-2145065931,815e973d6200131059df04098fd14005:1417288060,234e573d7a0013106a56fa4ce0ee38b3:-2145065931,154e173dfa0013104721c525e99067d8:-728260488,ec3e173d2500131059645c58b5500dc3:-1171326386,d11e5bf9780013104b6a121da8b2950d:-1051937050</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 12:08:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>17e49ea4a1ce4b5a83326158a2759279</sys_id>
+        <sys_metadata>841e533d610013107f441ad630aafdd1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1234_kishlist.KishLs</sys_name>
+        <sys_package display_value="Kishlist" source="x_1234_kishlist">e5b613b5610013107f441ad630aafdbb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Kishlist">e5b613b5610013107f441ad630aafdbb</sys_scope>
+        <sys_scope_delete display_value="">ac2c0acb40fb48dab49540ddef43b869</sys_scope_delete>
+        <sys_update_name>sys_alias_841e533d610013107f441ad630aafdd1</sys_update_name>
+        <sys_update_version display_value="sys_alias_841e533d610013107f441ad630aafdd1">4c6e973d610013107f441ad630aafde3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 12:08:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
